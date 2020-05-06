@@ -10,3 +10,7 @@ Depend on the amount of servers which are available, the messages or the files w
 
 Inside "http-server" there is an implementation example of http-server using this functionality. 
 
+
+#Thanks:
+troydhanson - for the great 'uthash' lib 
+https://github.com/troydhanson/uthash
