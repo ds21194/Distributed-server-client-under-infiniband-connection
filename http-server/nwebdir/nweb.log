@@ -1,0 +1,32 @@
+INFO: nweb starting:12348:
+
+INFO: nweb starting:12354:25762
+ INFO: nweb starting:12353:27305
+ INFO: nweb starting:12353:27421
+ INFO: nweb starting:12352:27775
+ INFO: before accepting
+::1
+ INFO: closing web request
+::1
+ INFO: :taking care of web request
+:1
+ INFO: before accepting
+::2
+ INFO: closing web request
+::2
+ INFO: :taking care of web request
+:2
+ INFO: before accepting
+::3
+ INFO: closing web request
+::3
+ INFO: :taking care of web request
+:3
+ INFO: before accepting
+::4
+ INFO: closing web request
+::4
+ INFO: :taking care of web request
+:4
+ INFO: before accepting
+::5
